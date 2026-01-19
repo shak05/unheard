@@ -1,4 +1,7 @@
-# Welcome to your Lovable project
+## Note
+This project was developed as a collaborative academic project.  
+This repository is forked for personal portfolio and demonstration purposes.
+
 
 ## Project info
 
